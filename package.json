@@ -36,9 +36,12 @@
     "grunt": "~0.4.5"
   },
   "peerDependencies": {
-    "grunt": "~0.4.5"
+    "grunt": ">=0.4.0"
   },
   "keywords": [
-    "gruntplugin", "docxtemplater", "docx", "template"
+    "gruntplugin",
+    "docxtemplater",
+    "docx",
+    "template"
   ]
 }
